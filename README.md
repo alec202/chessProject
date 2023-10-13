@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 # chessProject
 A chess game written in Python with an AI that will play against you :)
 =======
@@ -20,4 +20,4 @@ I believe that's all the requirements/things to know. If there's any problems do
 
 Enjoy!
 
->>>>>>> Stashed changes
+
